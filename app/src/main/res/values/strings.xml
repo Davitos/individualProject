@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">IndividualProject</string>
+    <string name="emailWelcome">Email Address</string>
+    <string name="passwordWelcome">Password</string>
+    <string name="loginButtonText">Login</string>
+    <string name="registerButtonText">Register</string>
+    <string name="registerName">Name</string>
+    <string name="registerEmail">Email Address</string>
+    <string name="registerPassword">Password</string>
+    <string name="registerButton2Text">Register</string>
+    <string name="backToLogin">Back</string>
 </resources>
