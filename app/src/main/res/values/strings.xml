@@ -9,4 +9,6 @@
     <string name="registerPassword">Password</string>
     <string name="registerButton2Text">Register</string>
     <string name="backToLogin">Back</string>
+    <string name="welcomeMessage">Welcome</string>
+    <string name="logoutButton">Logout</string>
 </resources>
