@@ -11,4 +11,6 @@
     <string name="backToLogin">Back</string>
     <string name="welcomeMessage">Welcome</string>
     <string name="logoutButton">Logout</string>
+    <string name="registerHomeAddress">Home Address</string>
+    <string name="registerWorkAddress">Work Address</string>
 </resources>

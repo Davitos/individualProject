@@ -44,6 +44,24 @@
             android:padding="10dp"
             android:maxLines="1" />
 
+        <EditText
+            android:id="@+id/registerHomeAddress"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:hint="@string/registerHomeAddress"
+            android:padding="10dp"
+            android:maxLines="1" />
+
+        <EditText
+            android:id="@+id/registerWorkAddress"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:hint="@string/registerWorkAddress"
+            android:padding="10dp"
+            android:maxLines="1" />
+
         <!-- Login Button -->
 
         <Button
