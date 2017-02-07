@@ -2,8 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.dave.individualproject">
 
-    <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
 
     <application
         android:name="com.example.dave.individualproject.app.controller"
@@ -13,6 +12,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         >
+
+        <service android:name=".GeofenceTransitionIntentService"/>
 
         <activity android:name=".Login"
             android:theme="@style/AppTheme">>
@@ -39,5 +40,7 @@
 
 
     </application>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
 
 </manifest>
