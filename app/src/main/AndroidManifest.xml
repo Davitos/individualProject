@@ -13,17 +13,13 @@
         android:theme="@style/AppTheme"
         >
 
+        <receiver android:name=".phoneLock"/>
         <service android:name=".GeofenceTransitionIntentService"/>
-
         <activity android:name=".Login"
             android:theme="@style/AppTheme">>
-
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
-
-
             </intent-filter>
 
         </activity>
