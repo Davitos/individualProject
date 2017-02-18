@@ -24,6 +24,7 @@
             android:background="@color/white"
             android:padding="10dp"
             android:maxLines="1"
+            android:text="@string/testLogin"
             />
         <EditText
             android:id="@+id/loginPassword"
@@ -35,6 +36,7 @@
             android:padding="10dp"
             android:maxLines="1"
             android:inputType="textPassword"
+            android:text="@string/testPassword"
             />
         <Button
             android:id="@+id/loginButton"

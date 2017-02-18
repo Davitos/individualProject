@@ -13,4 +13,6 @@
     <string name="logoutButton">Logout</string>
     <string name="registerHomeAddress">Home Address</string>
     <string name="registerWorkAddress">Work Address</string>
+    <string name="testLogin">dps@hotmail.co.uk</string>
+    <string name="testPassword">dave</string>
 </resources>
