@@ -8,4 +8,15 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="Theme.AppTheme.NoActionBar" parent="Theme.AppCompat.NoActionBar" >
+        <item name="colorAccent">@color/primary_dark_material_dark</item>
+        <item name="android:textColorPrimary">@color/colorAccent</item>
+        <item name="android:textColorSecondary">@color/colorPrimary</item>
+        <item name="android:textColorPrimaryInverse">@color/colorPrimary</item>
+        <item name="android:textColorSecondaryInverse">@color/colorAccent</item>
+        <item name="android:colorForeground">@color/common_google_signin_btn_text_dark_pressed</item>
+        <item name="android:colorBackground">@android:color/holo_red_dark</item>
+        <item name="android:statusBarColor">?android:attr/colorEdgeEffect</item>
+    </style>
+
 </resources>

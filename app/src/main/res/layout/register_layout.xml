@@ -66,10 +66,12 @@
 
         <Button
             android:id="@+id/registerButton2"
-            android:layout_width="fill_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dip"
             android:text="@string/registerButton2Text"
+            android:layout_gravity="center"
+            android:background="@drawable/my_button"
   />
 
         <!-- Link to Login Screen -->
