@@ -15,4 +15,6 @@
     <string name="registerWorkAddress">Work Address</string>
     <string name="testLogin">dps@hotmail.co.uk</string>
     <string name="testPassword">dave</string>
+    <string name="registerGymAddress">Gym Address</string>
+
 </resources>

@@ -49,6 +49,17 @@
             android:background="@drawable/my_button"/>
 
         <Button
+            android:id="@+id/gym"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dip"
+            android:text="gym"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="15dp"
+            android:background="@drawable/my_button"/>
+
+        <Button
             android:id="@+id/btnLogout"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -58,6 +69,8 @@
             android:textColor="@color/white"
             android:textSize="15dp"
             android:background="@drawable/my_button"/>
+
+
     </LinearLayout>
 
 </RelativeLayout>

@@ -62,6 +62,17 @@
             android:padding="10dp"
             android:maxLines="1" />
 
+        <EditText
+            android:id="@+id/registerGymAddress"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:hint="@string/registerGymAddress"
+            android:padding="10dp"
+            android:maxLines="1" />
+
+
+
         <!-- Login Button -->
 
         <Button
